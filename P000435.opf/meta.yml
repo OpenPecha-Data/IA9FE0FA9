@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W20390
   title: བྱང་ཆུབ་སེམས་དཔའ་རྟག་ངུའི་རྟོགས་བརྗོད་སྙན་དངགས་དཔག་བསམ་གྱི་ལྗོན་པ
-  volume: ''
+  volume:
+    66ea9e7b70fe42e18e046dc90506c507:
+      image_group_id: I4701
+      title: ''
+      volume_number: 1
+      total_pages: 310
   author: ''
+ebook_metadata:
+  title: བྱང་ཆུབ་སེམས་དཔའ་རྟག་ངུའི་རྟོགས་བརྗོད་སྙན་དངགས་དཔག་བསམ་གྱི་ལྗོན་པ
+  author: ''
+  sku: P000435
+  cover: cover.jpg
+  layers:
+  - pagination
